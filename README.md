@@ -12,6 +12,6 @@ Aspiring Data Analyst | Python • SQL • Power BI • Excel
 </p>
 ## 📫 Connect with Me
 
-💼 LinkedIn: https://www.linkedin.com/in/sonali-chauhan/
+💼 LinkedIn: https://www.linkedin.com/in/sonali-chauhan-/
 
 📧 Email: sonalich09@gmail.com
